@@ -69,11 +69,8 @@ main{
 
 footer {
   background: black;
-  display: flex;
-  justify-content: space-between;
-  padding: 20px;
-  position: sticky;
-  bottom: 0;
+  color:#e3f4ff;
+  padding: 20px; 50px;
 }
 
 .date{
